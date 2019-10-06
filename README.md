@@ -67,4 +67,4 @@ Modern browsers and Internet Explorer 10+.
 
 [MIT](https://github.com/xiaonanminyan/music-admin-frontend/blob/master/LICENSE) license.
 
-Copyright (c) 2017-present PanJiaChen
+Copyright (c) 2017-present xiaonaminyan
