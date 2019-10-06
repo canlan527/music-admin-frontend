@@ -1,4 +1,4 @@
-# vue-admin-template
+# music-admin-frontend
 
 English | [简体中文](./README-zh.md)
 
